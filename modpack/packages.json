@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "minimumVersion" : 1,
   "packages" : [
     {
@@ -10,16 +9,4 @@
       "priority" : 1
     }
   ]
-=======
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "Dozamigos",
-            "title": "Dozamigos",
-            "version": "20100223",
-            "location": "dozamigos.json",
-            "priority": 1
-        }
-    ]
->>>>>>> 73c38a5da47107af75d0d9e3c2ca3179f11725be
 }
